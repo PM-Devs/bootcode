@@ -1,2 +1,2 @@
 # bootcode
-Bootcode Website
+Bootcode
